@@ -49,6 +49,7 @@ https://glow-cart-project.vercel.app/
 
 ### Mobile Cart View
 ![Mobile Cart](./screenshots/Mobile_cart.png)
+
 ---
 
 ## How to Run Locally
