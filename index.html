@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>GlowCart</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<!-- HEADER -->
+<header class="header">
+  <h2 class="logo">✨ GlowCart</h2>
+
+  <div class="cart-icon" id="cartIcon">
+    🛒
+    <span class="cart-badge" id="cartCount">0</span>
+  </div>
+</header>
+
+<!-- MAIN -->
+<main class="container">
+
+  <section>
+    <h2>Daily Essentials</h2>
+    <div class="products" id="essentials"></div>
+  </section>
+
+  <section>
+    <h2>Skin Care Treatments</h2>
+    <div class="products" id="treatment"></div>
+  </section>
+
+  <section>
+    <h2>Advanced Care</h2>
+    <div class="products" id="advanced"></div>
+  </section>
+
+</main>
+
+<!-- CART -->
+<div class="cart" id="cart">
+
+  <div class="cart-header">
+    <h3>Your Cart</h3>
+    <span id="closeCart">✖</span>
+  </div>
+
+  <!-- ✅ IMPORTANT WRAPPER ADDED -->
+  <div class="cart-items" id="cartItems"></div>
+
+  <div class="cart-footer">
+    <h4>Total: ₹<span id="total">0</span></h4>
+    <button class="checkout">Checkout</button>
+  </div>
+
+</div>
+
+<!-- FOOTER -->
+<footer class="footer">
+  <p>© 2026 GlowCart. All rights reserved.</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
