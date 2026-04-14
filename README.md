@@ -26,29 +26,29 @@ https://glow-cart-project.vercel.app/
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla JS)
+- JavaScript
 
 ---
 
 ## Screenshots
 
 ### Desktop View
-![Desktop](./Screenshots/Desktop.png)
+![Desktop](./Desktop.png)
 
 ---
 
 ### Tablet / iPad View
-![Tablet](./Screenshots/ipad_tablet.png)
+![Tablet](./ipad_tablet.png)
 
 ---
 
 ### Mobile View
-![Mobile](./Screenshots/Mobile.png)
+![Mobile](./Mobile.png)
 
 ---
 
 ### Mobile Cart View
-![Mobile Cart](./Screenshots/Mobile_cart.png)
+![Mobile Cart](./Mobile_cart.png)
 
 ---
 
