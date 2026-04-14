@@ -33,28 +33,28 @@ https://glow-cart-project.vercel.app/
 ## Screenshots
 
 ### Desktop View
-![Desktop](./screenshots/Desktop.png)
+![Desktop](./Screenshots/Desktop.png)
 
 ---
 
 ### Tablet / iPad View
-![Tablet](./screenshots/ipad_tablet.png)
+![Tablet](./Screenshots/ipad_tablet.png)
 
 ---
 
 ### Mobile View
-![Mobile](./screenshots/Mobile.png)
+![Mobile](./Screenshots/Mobile.png)
 
 ---
 
 ### Mobile Cart View
-![Mobile Cart](./screenshots/Mobile_cart.png)
+![Mobile Cart](./Screenshots/Mobile_cart.png)
 
 ---
 
 ## How to Run Locally
 
 ```bash
-git clone https://github.com/yourusername/GlowCart_Project.git
+git clone https://github.com/dhwani1006/GlowCart_Project.git
 cd GlowCart_Project
 open index.html
